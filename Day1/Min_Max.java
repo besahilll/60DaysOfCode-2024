@@ -1,4 +1,4 @@
-/*find the minimum and maximum elements in the array.
+/*find the minimum and maximum element in the array.
 Time complexity: O(n) 
 Space Complexity: O(1) */
 class Solution {
